@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋my name is Yuxiang Zeng.I am a project Code beginners.So my technology is still relatively backward.希望与各位交流学习，与大伙学习到点东西
+You can find me in Twitter and Bilibili.The account name is BST_Zeng.https://twitter.com/BST_Zeng
 
 <!--
 **Zeng0408/Zeng0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
